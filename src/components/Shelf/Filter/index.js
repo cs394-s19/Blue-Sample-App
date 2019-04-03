@@ -9,6 +9,7 @@ import GithubStarButton from '../../github/StarButton';
 import './style.scss';
 
 const availableSizes = ['XS', 'S', 'M', 'ML', 'THIC', 'THICC', 'THICCC'];
+// a useless commit to try to get listed as contributor
 
 class Filter extends Component {
   static propTypes = {
