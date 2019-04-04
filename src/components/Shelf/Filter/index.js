@@ -8,7 +8,7 @@ import GithubStarButton from '../../github/StarButton';
 
 import './style.scss';
 
-const availableSizes = ['XS', 'S', 'M', 'ML', 'THIC', 'THICC', 'THICCC'];
+const availableSizes = ['XS', 'S', 'M', 'ML', 'THIC', 'THICC', 'THICCC', 'NO U'];
 // a useless commit to try to get listed as contributor
 // another one
 
